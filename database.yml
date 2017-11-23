@@ -1,0 +1,7 @@
+users:
+    rob: {username: rob, articleIds: [1], commentIds: []}
+articles:
+    '1': {id: 1, title: 'Really Bad Article', url: bad, username: rob, commentIds: [], upvotedBy: [], downvotedBy: []}
+comments: {}
+nextCommentId: 1
+nextArticleId: 2
